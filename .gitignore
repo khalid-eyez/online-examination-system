@@ -44,13 +44,6 @@ phpunit.phar
 /backend/web/robots.txt
 
 
-#ignoring classroom uploading folder
-
-/frontend/web/storage/submit/*
-/frontend/web/storage/temp/*
-/frontend/web/storage/invigilationFiles/*
-/frontend/web/storage/quizes/*
-/frontend/web/storage/tmpfiles/*
 
 
 
