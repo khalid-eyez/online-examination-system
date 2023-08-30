@@ -20,7 +20,6 @@ Thumbs.db
 # composer vendor dir
 /vendor
 /xdebug
-/frontend/web/apps
 
 # composer itself is not needed
 composer.phar
@@ -49,10 +48,6 @@ phpunit.phar
 
 /frontend/web/storage/submit/*
 /frontend/web/storage/temp/*
-/frontend/web/storage/CAs/*
-/frontend/web/storage
-/frontend/web/config/*
-/frontend/web/config
-/frontend/web/apps
-/frontend/web/apps/
-/frontend/web/apps/*
+#/frontend/web/storage
+
+
