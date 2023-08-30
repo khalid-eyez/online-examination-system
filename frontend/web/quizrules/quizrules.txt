@@ -1,0 +1,19 @@
+Make sure you have a good internet connection before starting your Assessment
+#
+Avoid reloading your assessment page after entering the assessment as this may prevent you from submitting your responses at the end
+#
+If your assessment is restricted by an access token, the access token is a single use token, that means if you use it once it will no longer be valid for future uses, make sure you have done and successfully submitted your assessment before you log out as you will not be able to comeback
+#
+after logging to an assessment, you are not allowed to go out anyhow, either by opening another window or another tab
+#
+going out of the assessment will trigger a warning for the first time, and will automatically submit your assessment if you repeat it for the second time
+#
+Make sure your computer or browser does not allow pop up messages as these ones are considered as going out of the assessment
+#
+You will only be allowed to enter the assessment only once, going out of the assessment before finishing and submitting your answers will lead to a zero (0) score
+#
+When submitting the assessment, wait until the loader finishes and you get a success message
+#
+For massive attempted assessments, you are only allowed to enter the assessment not later than 20 minutes, after its starting time
+#
+Carefully observe the scores labels in green and red square blackets: green means score for correct answers, red means score for incorrect ones; Some questions may require deduction (negative score) of marks for incorrect answers.

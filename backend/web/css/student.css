@@ -1,0 +1,163 @@
+#forget_password{
+  margin-top: 0px;
+  padding-bottom: 5px;
+}
+
+#forget_password a {
+  font-style: italic;
+  color: red;
+  padding-left: 0%;
+  padding-bottom: 5px;
+}
+
+#forget_password a:hover {
+  color: rgb(108, 110, 221);
+}
+
+#username i {
+  font-style: italic;
+}
+
+#group_name{
+color: #007bff;
+  font-style: italic;
+}
+
+.upload-icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 70px;
+  color: #454545;
+}
+
+.btn-file{
+  border-radius: 5px;
+  position: relative;
+}
+
+.btn-file input {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+.document-icon:hover {
+  transform: scale(1.2); /* (150% zoom)*/
+}
+
+.carry-delete{
+  color: rgb(255, 0, 0);
+}
+
+
+.announcement-model{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.result-card:hover{
+  background: #007bff3b;
+}
+
+.fa-clipboard-list{
+  color: #007bff !important;
+}
+
+.assignment-header {
+  color: black;
+  font-weight: 350;
+}
+
+.assignment-auto{
+  font-weight: 400;
+}
+
+a h5{
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+@media (max-width: 780px) {
+  a h5{
+    font-weight: 500;
+    font-size: .75rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  a h5{
+    font-weight: 600;
+    font-size: .95rem;
+  }
+}
+
+
+/*Forum*/
+
+.card1 {
+  box-shadow: 0 0.46875rem 2.1875rem rgba(4, 9, 20, 0.03), 0 0.9375rem 1.40625rem rgba(4, 9, 20, 0.03), 0 0.25rem 0.53125rem rgba(4, 9, 20, 0.05), 0 0.125rem 0.1875rem rgba(4, 9, 20, 0.03);
+  border-width: 0;
+  transition: all .2s
+}
+
+.card-header1:first-child {
+  border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0
+}
+
+.card-header1 {
+  display: flex;
+  align-items: center;
+  border-bottom-width: 1px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: .625rem;
+  height: 3.5rem;
+  background-color: #fff;
+  border-bottom: 1px solid rgba(26, 54, 126, 0.125)
+}
+
+
+.qn-replay {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comment-btn {
+  background-color: rgba(85, 85, 85, 0.9);
+  border: 2px solid rgba(156, 163, 164, 0.62);
+  height: 40px;
+  margin-top: 0px;
+}
+
+.comment-btn-id {
+  background-color: rgba(85, 85, 85, 0.9);
+  border: 2px solid rgba(156, 163, 164, 0.62);
+  height: 40px;
+  margin-top: 0px;
+}
+
+.icon-color{
+  color: rgba(156, 163, 164, 0.62);
+}
+
+.icon-color-count{
+  color: rgba(0, 123, 255, 0.48);
+}
+
+
+.material-background{
+  background-color: rgba(34, 71, 133, 0.1);
+}
+
+

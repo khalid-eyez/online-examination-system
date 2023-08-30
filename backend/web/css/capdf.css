@@ -1,0 +1,26 @@
+table
+{
+    border:solid 0.2px rgb(120, 120, 140); 
+    margin-top:30px;
+}
+tr
+{
+    border:solid 0.2px rgb(120, 120, 140); 
+ 
+}
+td
+{
+    border:solid 0.2px rgb(120, 120, 140);   
+}
+.text-success
+{
+    color: green;
+}
+.border-success
+{
+    border:solid 1px green;
+}
+.membertable td{
+
+    padding:3px;
+}
