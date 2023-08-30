@@ -48,6 +48,6 @@ phpunit.phar
 
 /frontend/web/storage/submit/*
 /frontend/web/storage/temp/*
-#/frontend/web/storage
+/frontend/web/storage
 
 
